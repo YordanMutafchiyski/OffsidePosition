@@ -1,0 +1,11 @@
+C:\Users\feder\source\repos\OffsidePosition\IPRimeHoldingTask2\bin\Debug\netcoreapp2.1\IPRimeHoldingTask2.deps.json
+C:\Users\feder\source\repos\OffsidePosition\IPRimeHoldingTask2\bin\Debug\netcoreapp2.1\IPRimeHoldingTask2.runtimeconfig.json
+C:\Users\feder\source\repos\OffsidePosition\IPRimeHoldingTask2\bin\Debug\netcoreapp2.1\IPRimeHoldingTask2.runtimeconfig.dev.json
+C:\Users\feder\source\repos\OffsidePosition\IPRimeHoldingTask2\bin\Debug\netcoreapp2.1\IPRimeHoldingTask2.dll
+C:\Users\feder\source\repos\OffsidePosition\IPRimeHoldingTask2\bin\Debug\netcoreapp2.1\IPRimeHoldingTask2.pdb
+C:\Users\feder\source\repos\OffsidePosition\IPRimeHoldingTask2\obj\Debug\netcoreapp2.1\IPRimeHoldingTask2.csprojAssemblyReference.cache
+C:\Users\feder\source\repos\OffsidePosition\IPRimeHoldingTask2\obj\Debug\netcoreapp2.1\IPRimeHoldingTask2.csproj.CoreCompileInputs.cache
+C:\Users\feder\source\repos\OffsidePosition\IPRimeHoldingTask2\obj\Debug\netcoreapp2.1\IPRimeHoldingTask2.AssemblyInfoInputs.cache
+C:\Users\feder\source\repos\OffsidePosition\IPRimeHoldingTask2\obj\Debug\netcoreapp2.1\IPRimeHoldingTask2.AssemblyInfo.cs
+C:\Users\feder\source\repos\OffsidePosition\IPRimeHoldingTask2\obj\Debug\netcoreapp2.1\IPRimeHoldingTask2.dll
+C:\Users\feder\source\repos\OffsidePosition\IPRimeHoldingTask2\obj\Debug\netcoreapp2.1\IPRimeHoldingTask2.pdb
